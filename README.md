@@ -1,2 +1,3 @@
-# BION2
-Stage 2 of project BION
+# project BION | Phase 02
+
+<h3>Structural Upgrade & Strengthening</h3>
